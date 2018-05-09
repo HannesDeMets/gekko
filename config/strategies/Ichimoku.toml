@@ -1,0 +1,11 @@
+# Ichimoku settings
+conversionPeriod = 9
+basePeriod = 26
+spanPeriod = 52
+displacement = 26
+
+# double Ichimoku settings
+# conversionPeriod = 9
+# basePeriod = 26
+# spanPeriod = 52
+# displacement = 26
